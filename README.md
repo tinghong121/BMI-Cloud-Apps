@@ -1,4 +1,9 @@
 # BMI-Cloud-Apps
+A simple mobile application for BMI that allow users to calculate, record, view chart and get diet suggestion. Created and contributed by Goh Ting Hong, Cheng Yong Hui, Lee Hau Hwa, Lee Tze Chean and Pern Juin Hao for subject TCC3141 Cloud Computing.
+
+#Usage Manual
+
+# Version History
 Version 1.1 (16-10-2021,5pm)
 //by CHENG YONG HUI - Added a new screen, did testings and added new buttons
 
