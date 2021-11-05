@@ -8,5 +8,10 @@ Version 1.2 (17-10-2021,7pm)
 Version 1.2 (19-10-2021,4pm)
 //by Lee Tze Chean -  Replace version 1.2 due to some screen order issues. Fixed screen order issues, add BMI record, did testing.
 
-Version 1.3 (5-11-2021,5pm)
-//by Lee Hau Hwa -  Calculator and record the BMI and time.
+Version 1.3 (4-11-2021,5pm)
+//by Lee Hau Hwa -  Enhanced calculation and record the BMI and time.
+
+Version 1.4 (5-11-2021,3pm)
+//by Goh Ting Hong, Pern Juin Hao - Added new function: do calculation and give diet suggestions and desiggn user interface for suggestion screen
+                                  - Fixed cloud storage and establish connection between screen and database
+
