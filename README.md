@@ -23,7 +23,7 @@ Version 1.4 (5-11-2021,3pm)
 //by Goh Ting Hong, Pern Juin Hao - Added new function: do calculation and give diet suggestions and desiggn user interface for suggestion screen
                                   - Fixed cloud storage and establish connection between screen and database
 
-Version 1.4 (5-11-2021,5pm)
+Version 1.5 (5-11-2021,5pm)
 //by Lee Tze Chean - Created a bar chart.
 
 Version 1.3(sample) (6-11-2021,1pm)
