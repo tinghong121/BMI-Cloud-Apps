@@ -30,4 +30,6 @@ Version 1.3(sample) (6-11-2021,1pm)
 //by CHENG YONG HUI - Updated with new color scheme interface
                     - Introducing new feature: Screen Closing
 
-
+Version 1.6 (6-11-2021,5pm)
+//by CHENG YONG HUI - Refined interfaces in all screens
+                    - Refined closing screen feature
