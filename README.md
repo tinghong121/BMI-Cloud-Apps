@@ -1,7 +1,11 @@
 # BMI-Cloud-Apps
-A simple mobile application for BMI that allow users to calculate, record, view chart and get diet suggestion. Created and contributed by Goh Ting Hong, Cheng Yong Hui, Lee Hau Hwa, Lee Tze Chean and Pern Juin Hao for subject TCC3141 Cloud Computing.
+A simple mobile application for BMI that allow users to calculate, record, view chart and get diet suggestion. Created and contributed by Goh Ting Hong, Cheng Yong Hui, Lee Hau Hwa, Lee Tze Chean and Pern Juin Hao for subject TCC3141 Cloud Computing. 
 
-# New function implemented
+In the starting of the project, we seperate and distribute tasks based on the required enchancement equally. We install and use github desktop to update/commit our version progress. When we implement new features, we will upgrade the version follow the format ver1.x .
+
+The platform we used to implement the application is MIT App Inventor. It is a convenient platform for developing a mobile application. The technique "AI Companion" by MIT make us easier to test and debug the apps. We can direct access to the apps without installing any apk. 
+
+New function implemented
 We are yet to introduce you the suggest function. Users are able to view diet suggestion that include proteins, fibres, carbonhyrates, calciums and calories that users should take based on the latest bmi, height and weight.
 
 # Usage Manual
