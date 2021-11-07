@@ -5,8 +5,7 @@ In the starting of the project, we seperate and distribute tasks based on the re
 
 The platform we used to implement the application is MIT App Inventor. It is a convenient platform for developing a mobile application. The technique "AI Companion" by MIT make us easier to test and debug the apps. We can direct access to the apps without installing any apk. 
 
-New function implemented
-We are yet to introduce you the suggest function. Users are able to view diet suggestion that include proteins, fibres, carbonhyrates, calciums and calories that users should take based on the latest bmi, height and weight.
+We are yet to introduce you the suggest function that helps users to monitor their health. Users are able to view diet suggestion that include proteins, fibres, carbonhyrates, calciums and calories that users should take based on the latest bmi, height and weight.
 
 # Usage Manual
 Please use the latest stable version DLNM_bmi_ver1.6 to get better user experience.
