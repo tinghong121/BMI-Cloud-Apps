@@ -6,6 +6,18 @@ We are yet to introduce you the suggest function. Users are able to view diet su
 
 # Usage Manual
 Please use the latest stable version DLNM_bmi_ver1.6 to get better user experience.
+![image](https://user-images.githubusercontent.com/92206581/140636742-54bacc8d-522a-412a-8cfd-1d04e57436a3.png)
+Figure 1
+
+When users open our BMI application, it will display the home screen of our BMI application like the Figure 1 above. The home screen shows our application name BMI Calculator, our team name Delay No More and a start button. Users can just click the start button to start using our BMI application.
+
+![image](https://user-images.githubusercontent.com/92206581/140636750-9597b026-d027-4384-97e0-b42cc42bc6ec.png)
+![image](https://user-images.githubusercontent.com/92206581/140636754-88a7f975-2651-4199-9bb9-5d0f850f600e.png)
+![image](https://user-images.githubusercontent.com/92206581/140636758-e2322a49-8b90-411a-8826-ea55c2c529be.png)
+Figure 2
+
+After the user clicks the button, the user will directly go to the Calculate BMI screen page. As the user can see that, the Calculate BMI screen page allows users to calculate their BMI and just fill in the height in cm and the weight in kg. After filling in, they can just click the calculate button to get the values of BMI. When users click the button, below will show the result and the categories of the BMI. If users consider recording their BMI result, they can just click the record button. After the user clicking the record button, will also display the date and time at the below, it means the user has recorded successfully.
+
 
 # Gentle reminders
 1. When you are switching to other screens, users should avoid clicking any button immediately and wait a few seconds whenever the screen is loading to avoid any lagging.
